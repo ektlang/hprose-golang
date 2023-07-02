@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/hprose/hprose-golang/rpc"
+	"github.com/ektlang/hprose-golang/rpc"
 )
 
 func hello(name string, context *rpc.HTTPContext) string {

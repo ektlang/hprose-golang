@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/hprose/hprose-golang/rpc"
+	"github.com/ektlang/hprose-golang/rpc"
 )
 
 func hello(name string) string {

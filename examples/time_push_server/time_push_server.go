@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hprose/hprose-golang/rpc"
+	"github.com/ektlang/hprose-golang/rpc"
 )
 
 type event struct{}

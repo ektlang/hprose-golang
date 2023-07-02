@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/hprose/hprose-golang/util"
+	"github.com/ektlang/hprose-golang/util"
 )
 
 func readUint64(r *Reader) uint64 {

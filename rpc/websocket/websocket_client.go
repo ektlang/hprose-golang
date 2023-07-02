@@ -25,9 +25,9 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/ektlang/hprose-golang/rpc"
+	"github.com/ektlang/hprose-golang/util"
 	"github.com/gorilla/websocket"
-	"github.com/hprose/hprose-golang/rpc"
-	"github.com/hprose/hprose-golang/util"
 )
 
 var websocketSchemes = []string{"ws", "wss"}

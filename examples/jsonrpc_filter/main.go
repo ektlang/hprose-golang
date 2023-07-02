@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/hprose/hprose-golang/rpc"
-	"github.com/hprose/hprose-golang/rpc/filter/jsonrpc"
+	"github.com/ektlang/hprose-golang/rpc"
+	"github.com/ektlang/hprose-golang/rpc/filter/jsonrpc"
 )
 
 func hello(name string) string {

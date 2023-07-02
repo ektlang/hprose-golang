@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/hprose/hprose-golang/rpc"
+	"github.com/ektlang/hprose-golang/rpc"
 )
 
 // Stub is ...

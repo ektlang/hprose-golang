@@ -34,8 +34,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	hio "github.com/hprose/hprose-golang/io"
-	"github.com/hprose/hprose-golang/util"
+	hio "github.com/ektlang/hprose-golang/io"
+	"github.com/ektlang/hprose-golang/util"
 )
 
 type clientTopic struct {

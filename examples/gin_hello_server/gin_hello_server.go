@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hprose/hprose-golang/rpc"
+	"github.com/ektlang/hprose-golang/rpc"
 	"gopkg.in/gin-gonic/gin.v1"
 )
 

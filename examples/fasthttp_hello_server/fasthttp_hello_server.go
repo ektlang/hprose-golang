@@ -1,7 +1,7 @@
 package main
 
 import (
-	rpc "github.com/hprose/hprose-golang/rpc/fasthttp"
+	rpc "github.com/ektlang/hprose-golang/rpc/fasthttp"
 	"github.com/valyala/fasthttp"
 )
 
